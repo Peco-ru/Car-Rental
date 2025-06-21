@@ -1,0 +1,30 @@
+.bg-image {
+    background-image: url("/Pictures/bg1.jpg");
+    background-color: red;
+    background-size: cover;
+    height: 250px;
+    background-position: center;
+}
+.bg-black {
+    background-color: black;
+}
+
+.font-large {
+    font-size: large;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-grey {
+    background-color: gray;
+}
+
+.body {
+    background-image: url("/Pictures/body-bg.jpg");
+    background-size: cover;
+    background-position: center;
+ 
+
+}
